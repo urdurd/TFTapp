@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test</string>
+
+    <string name="name">Framkvæmt af </string>
+    <string name="hola">Hola </string>
+    <string name="date">Dagsetning </string>
+    <string name="nextPage">Áfram</string>
+    <string name="backPage">Til Baka</string>
+
+
+    <string name="action_settings">Settings</string>
+</resources>
